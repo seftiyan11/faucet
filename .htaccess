@@ -1,2 +1,0 @@
-RewriteEngine on
-RewriteRule ^(.*) resources/$1 [L]
